@@ -1,0 +1,13 @@
+tetris_gme_rules.c:72:6:updateGameBoard	20	static
+tetris_gme_rules.c:90:6:drawBoard	0	static
+tetris_gme_rules.c:93:9:positionValid	20	static
+tetris_gme_rules.c:114:9:nextRowPositionValid	0	static
+tetris_gme_rules.c:118:9:nextLeftPositionValid	0	static
+tetris_gme_rules.c:122:9:nextRightPositionValid	0	static
+tetris_gme_rules.c:127:29:tetrisBlockPositionsToBoard	16	static
+tetris_gme_rules.c:134:23:blockLimitPosition	0	static
+tetris_gme_rules.c:137:9:blockLimitPositionReached	0	static
+tetris_gme_rules.c:141:6:pickRandomBlock	72	static
+tetris_gme_rules.c:3:6:startGame	72	static
+tetris_gme_rules.c:167:6:updateGameBlock	72	static
+tetris_gme_rules.c:43:6:runGame	72	static

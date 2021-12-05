@@ -1,0 +1,9 @@
+tetris_status.c:38:6:tetrisDrawGameBoard	120	static
+tetris_status.c:92:6:tetrisUpdateScore	16	static
+tetris_status.c:100:6:tetrisUpdateTime	16	static
+tetris_status.c:108:6:tetrisDrawDownButton	40	static
+tetris_status.c:3:6:tetrisDrawStatus	32	static
+tetris_status.c:117:6:tetrisUpdateDownButton	0	static
+tetris_status.c:126:6:tetrisDrawStartButton	16	static
+tetris_status.c:27:6:tetrisDrawGameOver	16	static
+tetris_status.c:137:6:tetrisUpdateStartButton	0	static

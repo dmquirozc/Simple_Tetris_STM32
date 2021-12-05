@@ -1,0 +1,2 @@
+XPT2046_touch.c:25:6:XPT2046_TouchPressed	8	static
+XPT2046_touch.c:30:6:XPT2046_TouchGetCoordinates	56	static

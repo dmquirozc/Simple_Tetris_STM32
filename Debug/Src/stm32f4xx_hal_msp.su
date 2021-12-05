@@ -1,0 +1,7 @@
+stm32f4xx_hal_msp.c:64:6:HAL_MspInit	8	static
+stm32f4xx_hal_msp.c:86:6:HAL_RNG_MspInit	8	static
+stm32f4xx_hal_msp.c:108:6:HAL_RNG_MspDeInit	0	static
+stm32f4xx_hal_msp.c:130:6:HAL_SPI_MspInit	40	static
+stm32f4xx_hal_msp.c:167:6:HAL_SPI_MspDeInit	0	static
+stm32f4xx_hal_msp.c:251:6:HAL_SRAM_MspInit	48	static
+stm32f4xx_hal_msp.c:309:6:HAL_SRAM_MspDeInit	8	static
