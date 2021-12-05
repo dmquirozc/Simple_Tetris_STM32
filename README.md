@@ -28,3 +28,15 @@ void readTouch(uint16_t x, uint16_t y, uint8_t pressed);
 
 
 The readTouch function was configured to read the "down" button of the screen and the start button to reset the game when it's ends.
+<img src="https://user-images.githubusercontent.com/32380955/144747292-55185dbb-133b-4660-84bd-c5c8c5317fcb.jpg" alt="down_button" width="300px"/>
+<img src="https://user-images.githubusercontent.com/32380955/144747363-e0b21dce-d6bf-4b6f-9299-ebc3ecb65d4d.jpg" alt="end_game" width="300px"/>
+<img src="https://user-images.githubusercontent.com/32380955/144747365-8ba1ecfe-cecc-424c-b37a-840372de61f8.jpg" alt="start_button" width="300px"/>
+
+## Demo
+### Playing
+https://user-images.githubusercontent.com/32380955/144747461-c923bc27-56b8-4869-8c75-91651a21d1a8.mp4
+
+### Restart Game
+
+https://user-images.githubusercontent.com/32380955/144747468-24466002-d23d-471c-96c0-d54223977545.mp4
+
